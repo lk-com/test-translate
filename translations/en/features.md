@@ -5,42 +5,42 @@
 ### 1. Quick Setup
 
 **GitHub OAuth Authorization Login**
-- One-click login without complicated registration process
+- One-click login, no complicated registration process required
 - Secure and reliable OAuth 2.0 authorization mechanism
 - Automatically obtain user repository access permissions
 
-**One-click Repository Import**
-- Quickly browse and select repositories for translation
+**One-Click Repository Import**
+- Quickly browse and select repositories that need translation
 - Automatically detect Markdown documents in repositories
 - Intelligently recognize document structure and hierarchical relationships
 
 ### 2. Smart Translation
 
-**Multi-model AI Engine**
+**Multi-Model AI Engine**
 - Integrated with OpenRouter AI gateway
-- Supports mainstream large language models such as DeepSeek, Claude, and Gemini
-- Flexibly select the most suitable translation model
+- Supports mainstream large language models like DeepSeek, Claude, Gemini
+- Flexibly choose the most suitable translation model
 
-**Multi-language Support**
+**Multi-Language Support**
 - Supports over 20 target languages
-- Covers major language regions worldwide
-- Continuously expanding language support coverage
+- Covers global major language regions
+- Continuously expanding language support scope
 
 **Format Protection**
-- Fully preserve Markdown syntax formatting
-- Protect code block content from translation
-- Maintain document links and reference structures
+- Fully preserve Markdown syntax format
+- Protect code block content from being translated
+- Maintain document links and reference structure
 - Ensure readability of translated documents
 
 ### 3. Automated Workflow
 
 **Webhook Integration**
-- Automatically monitor repository commit events
+- Automatically listen to repository commit events
 - New commits automatically trigger translation tasks
 - Real-time synchronization of document updates
 
 **Batch Processing**
-- Support batch selection of documents for translation
+- Support for batch selection of documents requiring translation
 - Parallel processing of multiple translation tasks
 - Improve translation efficiency
 
@@ -48,11 +48,11 @@
 
 **Encrypted Storage**
 - Uses AES-256 encryption algorithm
-- Protect user sensitive data and access tokens
+- Protects user sensitive data and access tokens
 - Complies with international data security standards
 
-**Access Control**
-- Fine-grained access permission management
+**Permission Control**
+- Granular access permission management
 - Only requests necessary GitHub permissions
 - Users can revoke authorization at any time
 
@@ -60,18 +60,18 @@
 
 ### Zero Configuration Usage
 
-Compared to traditional translation solutions, GitHub Global doesn't require users to:
+Compared to traditional translation solutions, GitHub Global does not require users to:
 - Configure GitHub Actions workflows
 - Install local translation tools
 - Write automation scripts
 - Maintain translation environments
 
-All translation operations can be completed online, significantly lowering the usage barrier.
+All translation operations can be completed online, significantly lowering the barrier to entry.
 
 ### Professional Translation Quality
 
-Utilizing the latest large language model technology:
-- Understand the context of technical documentation
+Leveraging the latest large language model technology:
+- Understand the contextual context of technical documents
 - Maintain accuracy of professional terminology
 - Provide natural and fluent translation results
 - Adapt to different document styles
@@ -87,41 +87,41 @@ High degree of automation:
 ### Flexible Scalability
 
 Adapts to various scenario requirements:
-- Support projects of different scales
-- Flexibly select translation models
+- Supports projects of different scales
+- Flexibly choose translation models
 - Customize translation configurations
 - Can be integrated with existing workflows
 
 ## Application Value
 
-### Cost Reduction
+### Reduce Costs
 
 - Reduce manual translation investment
 - Lower internationalization barriers
 - Save time costs
 - Improve resource utilization
 
-### Expanded Coverage
+### Expand Coverage
 
 - Quickly generate multilingual versions
 - Expand project impact scope
 - Attract global developer participation
 - Promote diversified community development
 
-### Quality Assurance
+### Ensure Quality
 
 - AI-driven high-quality translation
 - Maintain document format consistency
 - Reduce manual translation errors
 - Ensure technical accuracy
 
-### Accelerated Iteration
+### Accelerate Iteration
 
 - Real-time synchronization of document updates
 - Quickly respond to version changes
 - Maintain consistency across multilingual versions
 - Support agile development processes
 
-## Conclusion
+## Summary
 
-GitHub Global provides a one-stop document translation solution for open-source projects and enterprises through innovative AI technology and automated workflows. The platform helps users achieve global document coverage with minimal configuration costs, optimal translation quality, and maximum work efficiency, promoting the global dissemination and sharing of technical knowledge.
+GitHub Global provides a one-stop document translation solution for open-source projects and enterprises through innovative AI technology and automated workflows. With minimal configuration costs, optimal translation quality, and maximum work efficiency, the platform helps users achieve global document coverage and promotes the dissemination and sharing of technical knowledge worldwide.
