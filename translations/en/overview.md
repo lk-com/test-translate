@@ -2,22 +2,22 @@
 
 ## Project Introduction
 
-GitHub Global is an AI-driven GitHub documentation translation platform built with SaaS architecture. This platform helps developers easily translate GitHub repository documentation into multiple languages, facilitating the global dissemination of open source projects.
+GitHub Global is an AI-driven GitHub documentation translation platform based on SaaS architecture. The platform helps developers easily translate GitHub repository documentation into multiple languages, promoting the global dissemination of open source projects.
 
 ## Technical Architecture
 
-GitHub Global adopts a modern SaaS architecture, integrating several core technical components:
+GitHub Global adopts a modern SaaS architecture, integrating multiple core technical components:
 
 - **AI Translation Engine**: Integrated with OpenRouter AI gateway
 - **Multi-model Support**: Supports mainstream large language models such as DeepSeek, Claude, Gemini
-- **Automated Workflow**: Automated translation workflow through GitHub Webhook
-- **Secure Encryption**: Uses AES-256 encryption algorithm to protect sensitive data
+- **Automated Workflow**: Implements automated translation workflow through GitHub Webhook
+- **Security Encryption**: Uses AES-256 encryption algorithm to protect sensitive data
 
 ## Platform Advantages
 
-### Zero Configuration Experience
+### Zero-Configuration Experience
 
-Users can complete document translation operations online without configuring complex GitHub Actions or other tools.
+Users do not need to configure complex GitHub Actions or other tools, and can complete document translation operations online.
 
 ### Intelligent Translation
 
@@ -29,7 +29,7 @@ New submissions automatically trigger translation tasks without manual intervent
 
 ### Format Integrity
 
-The translation process completely preserves Markdown formatting, code blocks, and link structures, ensuring consistency and readability of documentation.
+The translation process completely preserves Markdown format, code blocks, and link structure, ensuring document consistency and readability.
 
 ## Target Users
 
@@ -37,16 +37,16 @@ GitHub Global primarily serves the following user groups:
 
 1. **Open Source Project Maintainers**: Help open source projects quickly achieve multi-language documentation coverage
 2. **Technical Translation Teams**: Provide efficient document translation solutions
-3. **Multinational Enterprises**: Assist in the global dissemination of enterprise technical documentation
+3. **Multinational Corporations**: Assist in the global dissemination of corporate technical documentation
 
 ## Use Cases
 
 - Open source project documentation localization
-- Multi-language version generation for API documentation
-- International publishing of technical blogs
-- Translation of product documentation
+- API documentation multi-language version generation
+- International publication of technical blogs
+- Product documentation translation
 - Multi-language support for developer guides
 
 ## Platform Value
 
-GitHub Global is committed to lowering the threshold and cost of document translation, enabling global developers to read and understand technical documentation in their native languages, promoting the global development of the open source community and cross-border dissemination of technical knowledge.
+GitHub Global is committed to reducing the threshold and cost of document translation, enabling global developers to read and understand technical documentation in their native languages, promoting the global development of the open source community and cross-border dissemination of technical knowledge.
