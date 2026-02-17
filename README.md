@@ -1,5 +1,14 @@
 # GitHub Global 项目概述
 
+## 🌐 Translations / 多语言翻译
+
+This repository is available in the following languages:
+
+- English (Coming soon)
+
+---
+
+
 ## 项目简介
 
 GitHub Global 是一个基于 AI 技术驱动的 GitHub 文档翻译平台，采用 SaaS 架构设计。该平台帮助开发者轻松将 GitHub 仓库文档翻译成多种语言，促进开源项目的全球化传播。
